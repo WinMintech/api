@@ -2,11 +2,11 @@
     "categories": [{
             "name": "Livetv",
             "channels": [{
-                    "sources": ["https://tv.mahar.live:443/mahar/website.stream/mahar/website1/playlist.m3u8"],
+                    "sources": ["https://pull.dangaoka.com/live/stream-505050_lhd.flv?auth_key=1728741369-0-0-8945ab02b5e0b94e3432c3ff80a314f5"],
                     "thumb": "https://i.postimg.cc/zvQ66Gm9/download-19.png",
 		    "title": "MRTV-4 HD"
                 }, {
-                    "sources": ["https://tv.mahar.live:443/mahar/website.stream/mahar/website1/playlist.m3u8"],
+                    "sources": ["https://pull.dangaoka.com/live/stream-505050_lhd.flv?auth_key=1728741369-0-0-8945ab02b5e0b94e3432c3ff80a314f5"],
                     "thumb": "https://i.postimg.cc/zfM3gWwm/download-15.png",
 		    "title": "Channel-7 HD"
                 }, {
