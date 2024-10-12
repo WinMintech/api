@@ -10,7 +10,7 @@
                     "thumb": "https://i.postimg.cc/zfM3gWwm/download-15.png",
 		    "title": "Channel-7 HD"
                 }, {
-                    "sources": ["https://tv.mahar.live:443/mahar/website.stream/mahar/website1/playlist.m3u8"],
+                    "sources": ["https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=6ddff1493cce4fdc2ce6797c5a5e77b4&txTime=670ac8b2"],
                     "thumb": "https://i.postimg.cc/zfM3gWwm/download-15.png",
 		    "title": "Mahar bhawdi"
                 }, {
