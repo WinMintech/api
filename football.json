@@ -2,9 +2,9 @@
     "categories": [{
             "name": "Livetv",
             "channels": [{
-                    "sources": ["http://xtv.ooo:8080/live/98267/02727/238480.m3u8"],
-                    "thumb": "https://i.postimg.cc/BnSQmmbx/download-14.jpg",
-		    "title": "Super "
+                    "sources": ["http://185.189.225.157/EuroSport1/index.m3u8"],
+                    "thumb": "https://i.postimg.cc/zfM3gWwm/download-15.png",
+		    "title": "Euro Sports 1"
                 }, {
                     "sources": ["https://pull.dangaoka.com/live/stream-505050_lhd.flv?auth_key=1728741369-0-0-8945ab02b5e0b94e3432c3ff80a314f5"],
                     "thumb": "https://i.postimg.cc/zfM3gWwm/download-15.png",
