@@ -4,6 +4,7 @@
             "channels": [{
                     "sources": ["http://185.189.225.157/EuroSport1/index.m3u8"],
                     "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 		    "title": "Euro Sports 1"
                 }, {
                     "sources": ["https://pull.dangaoka.com/live/stream-505050_lhd.flv?auth_key=1728741369-0-0-8945ab02b5e0b94e3432c3ff80a314f5"],
