@@ -3,7 +3,7 @@
             "name": "Livetv",
             "channels": [{
                     "sources": ["http://185.189.225.157/EuroSport1/index.m3u8"],
-                    "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+                    "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 		    "title": "Euro Sports 1"
                 }, {
