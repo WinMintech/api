@@ -7,14 +7,18 @@
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/95801_small.png",
 		    "title": "AFF Championship",
 		    "teamAName":"Cambodia",
-                    "teamBName":"Timor-Leste"
+                    "teamBName":"Timor-Leste",
+		    "time": "05:15PM",
+		    "date": "17/12/2024"
                 }, {
                     "sources": ["https://pull.dangaoka.com/live/stream-505050_lhd.flv?auth_key=1728741369-0-0-8945ab02b5e0b94e3432c3ff80a314f5"],
                     "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",
-"title": "AFF Championship",
-"teamAName":"Singapore",
-"teamBName":"Thailand"
+                    "title": "AFF Championship",
+                    "teamAName":"Singapore",
+                    "teamBName":"Thailand",
+		    "time": "07:00PM",
+		    "date": "17/12/2024"
                 }
             ]
         }
