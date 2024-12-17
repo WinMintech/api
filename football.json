@@ -3,18 +3,18 @@
             "name": "Livetv",
             "channels": [{
                     "sources": ["http://185.189.225.157/EuroSport1/index.m3u8"],
-                    "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-		    "title": "Euro Sports 1",
-		    "teamAName":"Man City",
-                    "teamBName":"Arsenal"
+                    "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/6332_small.png",
+		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/95801_small.png",
+		    "title": "AFF Championship",
+		    "teamAName":"Cambodia",
+                    "teamBName":"Timor-Leste"
                 }, {
                     "sources": ["https://pull.dangaoka.com/live/stream-505050_lhd.flv?auth_key=1728741369-0-0-8945ab02b5e0b94e3432c3ff80a314f5"],
-                    "thumb": "https://i.postimg.cc/zfM3gWwm/download-15.png",
-		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-"title": "Euro Sports 1",
-"teamAName":"Man City",
-"teamBName":"Arsenal"
+                    "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
+		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",
+"title": "AFF Championship",
+"teamAName":"Singapore",
+"teamBName":"Thailand"
                 }
             ]
         }
