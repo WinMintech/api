@@ -3,7 +3,7 @@
             "name": "Livetv",
             "channels": [{
                     "sources": ["http://185.189.225.157/EuroSport1/index.m3u8"],
-                    "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/6332_small.png",
+                    "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/95801_small.png",
 		      "live":"https://i.ibb.co/mGn6KnF/vsteam.png",
 		    "title": "AFF Championship",
