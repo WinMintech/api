@@ -2,7 +2,7 @@
     "categories": [{
             "name": "Livetv",
             "channels": [{
-                    "sources": ["http://185.189.225.157/EuroSport1/index.m3u8"],
+                    "sources": ["https://winmintech.github.io/NewVpn/test.json"],
                     "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
 		      "live":"https://i.ibb.co/mD1K9KY/livesignal.png",
@@ -12,7 +12,7 @@
 		    "time": "07:30PM",
 		    "date": "18/12/2024"
                 }, {
-                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/101664"],
+                    "sources": ["https://winmintech.github.io/NewVpn/test.json"],
                     "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",
                      "live":"https://i.ibb.co/mD1K9KY/livesignal.png",
@@ -22,7 +22,7 @@
 		    "time": "07:00PM",
 		    "date": "17/12/2024"
                 },{
-                    "sources": ["https://pull.dangaoka.com/live/stream-505050_lhd.flv?auth_key=1728741369-0-0-8945ab02b5e0b94e3432c3ff80a314f5"],
+                    "sources": ["https://winmintech.github.io/NewVpn/test.json"],
                     "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
                      "live":"https://i.ibb.co/mGn6KnF/vsteam.png",
@@ -32,7 +32,7 @@
 		    "time": "02:30AM",
 		    "date": "18/12/2024"
 	    },{
-                    "sources": ["http://185.189.225.157/EuroSport1/index.m3u8"],
+                    "sources": ["https://winmintech.github.io/NewVpn/test.json"],
                     "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
 		      "live":"https://i.ibb.co/mGn6KnF/vsteam.png",
