@@ -3,14 +3,8 @@
             "name": "Livetv",
             "channels": [{
                     "sources": [
-{
-"name": "Server 1",
-"url": "https://fancode.mafiatv.live/proxy.php?url=https%3A%2F%2Fdai.fancode.com%2Fprimary%2F113388_english_hls_5491ta-di%2F1080p.m3u8"
-},
-{
-"name": "Server 2",
-"url": "https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
-}
+"https://fancode.mafiatv.live/proxy.php?url=https%3A%2F%2Fdai.fancode.com%2Fprimary%2F113388_english_hls_5491ta-di%2F1080p.m3u8"],
+["https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
 ],
                     "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
@@ -22,14 +16,8 @@
 		    "date": "18/12/2024"
                 }, {
                     "sources": [
-{
-"name": "Server 1",
-"url": "https://fancode.mafiatv.live/proxy.php?url=https%3A%2F%2Fdai.fancode.com%2Fprimary%2F113388_english_hls_5491ta-di%2F1080p.m3u8"
-},
-{
-"name": "Server 2",
-"url": "https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
-}
+"https://fancode.mafiatv.live/proxy.php?url=https%3A%2F%2Fdai.fancode.com%2Fprimary%2F113388_english_hls_5491ta-di%2F1080p.m3u8"],
+["https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
 ],
                     "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",
@@ -41,14 +29,8 @@
 		    "date": "17/12/2024"
                 },{
                     "sources": [
-{
-"name": "Server 1",
-"url": "https://fancode.mafiatv.live/proxy.php?url=https%3A%2F%2Fdai.fancode.com%2Fprimary%2F113388_english_hls_5491ta-di%2F1080p.m3u8"
-},
-{
-"name": "Server 2",
-"url": "https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
-}
+"https://fancode.mafiatv.live/proxy.php?url=https%3A%2F%2Fdai.fancode.com%2Fprimary%2F113388_english_hls_5491ta-di%2F1080p.m3u8"],
+["https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
 ],
                     "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
@@ -60,14 +42,8 @@
 		    "date": "18/12/2024"
 	    },{
                     "sources": [
-{
-"name": "Server 1",
-"url": "https://fancode.mafiatv.live/proxy.php?url=https%3A%2F%2Fdai.fancode.com%2Fprimary%2F113388_english_hls_5491ta-di%2F1080p.m3u8"
-},
-{
-"name": "Server 2",
-"url": "https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
-}
+"https://fancode.mafiatv.live/proxy.php?url=https%3A%2F%2Fdai.fancode.com%2Fprimary%2F113388_english_hls_5491ta-di%2F1080p.m3u8"],
+["https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
 ],
                     "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
