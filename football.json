@@ -2,8 +2,7 @@
     "categories": [{
             "name": "Livetv",
             "channels": [{
-                    "sources":["http://line.4k-beast.co:80/529C1C/7446D7/591385",
-                     "http://line.4k-beast.co:80/529C1C/7446D7/591387"]                 
+                    "sources":["http://line.4k-beast.co:80/529C1C/7446D7/591387"]                 
 		    "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
 		      "live":"https://i.ibb.co/mD1K9KY/livesignal.png",
@@ -13,8 +12,7 @@
 		    "time": "07:30PM",
 		    "date": "18/12/2024"
                 }, {
-                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/591385",
-                     "http://line.4k-beast.co:80/529C1C/7446D7/591387"],                   
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/591385"],                   
 		    "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",
                      "live":"https://i.ibb.co/mD1K9KY/livesignal.png",
@@ -24,8 +22,7 @@
 		    "time": "07:00PM",
 		    "date": "17/12/2024"
                 },{
-                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/591385",
-                     "http://line.4k-beast.co:80/529C1C/7446D7/591387"],            
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/591385"],            
 		    "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
                      "live":"https://i.ibb.co/mGn6KnF/vsteam.png",
@@ -35,8 +32,7 @@
 		    "time": "02:30AM",
 		    "date": "18/12/2024"
 	    },{
-                    "sources":["http://line.4k-beast.co:80/529C1C/7446D7/591385",
-                     "http://line.4k-beast.co:80/529C1C/7446D7/591387"],            
+                    "sources":["http://line.4k-beast.co:80/529C1C/7446D7/591385"],            
 		    "thumb": "https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",
 		    "teamAFlag":"https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
 		      "live":"https://i.ibb.co/mGn6KnF/vsteam.png",
