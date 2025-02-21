@@ -10,17 +10,17 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=d85cab75ac2971789e23a7eecf224a21&txTime=6786de9d",
+                "stream_url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=db7bf68347cde44147f33b36323d2606&txTime=67b8a451",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=bda8cb64e000e5ed6dd77df1cc840c3c&txTime=6786de9d",
+                "stream_url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=db7bf68347cde44147f33b36323d2606&txTime=67b8a451",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=d41b58889fbbe44f12e5583370940454&txTime=6787061e",
+                "stream_url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=db7bf68347cde44147f33b36323d2606&txTime=67b8a451",
                 "referer": "https://socolivev.co/"
             },
             {
