@@ -1,8 +1,22 @@
 [
     {
-        "title": "Video 1",
+        "title": "Man City Vs Liverpool",
         "server1": "http://line.4k-beast.co:80/529C1C/7446D7/591387",
         "server2": "http://line.4k-beast.co:80/529C1C/7446D7/591385"
+    },
+    {
+"title": "Australia Vs England",
+"server1": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+"server2": "http://line.4k-beast.co:80/529C1C/7446D7/591385"
+},
+{
+"title": "Liverpool Vs Man City",
+"server1": "http://line.4k-beast.co:80/529C1C/7446D7/591387",
+"server2": "http://line.4k-beast.co:80/529C1C/7446D7/591385"
+},
+{
+        "title": "PSG Vs Arsenal",
+        "server1": "http://line.4k-beast.co:80/529C1C/7446D7/591387",
+        "server2": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
     }
-
 ]
