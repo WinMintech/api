@@ -10,12 +10,7 @@
     },
     {
         "title": "Match 2",
-        "servers": [
-            {"name": "Server 1", "url": ""},
-            {"name": "Server 2", "url": ""},
-            {"name": "Server 3", "url": ""},
-            {"name": "Server 4", "url": ""}
-        ]
+        
     }
 ]
 
