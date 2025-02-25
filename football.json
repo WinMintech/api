@@ -2,7 +2,7 @@
     {
         "title": "Match 1",
         "servers": [
-            "https://vps.vffddd.online:8880/adsp1/index.m3u8",
+            "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
             "https://vps.vffddd.online:8880/adsp1/index.m3u8",
             "https://example.com/server3.mp4",
             "https://example.com/server4.mp4"
