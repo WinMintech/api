@@ -1,18 +1,38 @@
 [
     {
-        "title": "Video 1 Free",
-        "server1": "http://line.4k-beast.co:80/529C1C/7446D7/591385",
-        "server2": "http://line.4k-beast.co:80/529C1C/7446D7/591387",
-        "server3": "https://vps.vffddd.online:8880/adsp1/index.m3u8",
-        "server4": "https://vps.vffddd.online:8880/adsp1/index.m3u8",
-        "server5": "https://vps.vffddd.online:8880/adsp1/index.m3u8"
+        "title": "Match 1",
+        "servers": [
+            "https://vps.vffddd.online:8880/adsp1/index.m3u8",
+            "https://vps.vffddd.online:8880/adsp1/index.m3u8",
+            "https://example.com/server3.mp4",
+            "https://example.com/server4.mp4"
+        ]
     },
-    {
-        "title": "Video 2",
-        "server1": "http://line.4k-beast.co:80/529C1C/7446D7/591385",
-        "server2": "http://line.4k-beast.co:80/529C1C/7446D7/591387",
-        "server3": "https://vps.vffddd.online:8880/adsp1/index.m3u8",
-        "server4": "https://vps.vffddd.online:8880/adsp1/index.m3u8",
-        "server5": ""
+{
+        "title": "Match 2",
+        "servers": [
+            "https://vps.vffddd.online:8880/adsp1/index.m3u8",
+            "https://vps.vffddd.online:8880/adsp1/index.m3u8",
+            "https://example.com/server3.mp4",
+            "https://example.com/server4.mp4"
+        ]
+    },
+{
+        "title": "Match 3",
+        "servers": [
+            "https://example.com/server1.mp4",
+            "https://example.com/server2.mp4",
+            "https://example.com/server3.mp4",
+            "https://example.com/server4.mp4"
+        ]
+    },
+{
+        "title": "Match 1",
+        "servers": [
+            "https://example.com/server1.mp4",
+            "https://example.com/server2.mp4",
+            "https://example.com/server3.mp4",
+            "https://example.com/server4.mp4"
+        ]
     }
 ]
