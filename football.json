@@ -7,6 +7,15 @@
             {"name": "Server 3", "url": "http://line.4k-beast.co:80/529C1C/7446D7/591387"},
             {"name": "Server 4", "url": "http://line.4k-beast.co:80/529C1C/7446D7/591387"}
         ]
+    },
+    {
+        "title": "Match 2",
+        "servers": [
+            {"name": "Server 1", "url": ""},
+            {"name": "Server 2", "url": ""},
+            {"name": "Server 3", "url": ""},
+            {"name": "Server 4", "url": ""}
+        ]
     }
 ]
 
